@@ -17,22 +17,24 @@ Welcome to the Cinema Ticket Database project. This database schema manages info
   - Phakphum Phrajrern(Me)
  
 # Cinema Ticket Database Schema
-![CinemaTicket](https://github.com/Tako-C/Project-Cenema-Ticket/blob/main/Photo/CenemaTicket_ER.png?raw=true)
+![CinemaTicket](https://github.com/Tako-C/Project-Cenema-Ticket/blob/main/Photo/CenemaTicket_ER_V2.png?raw=true)
 
 
 ## Table of Contents
 - [Database Schema Overview](#database-schema-overview)
 - [Tables](#tables)
-  - [cinema](#cinema)
-  - [cinemaprogram](#cinemaprogram)
   - [member](#member)
-  - [movie](#movie)
+  - [membertype](#membertype)
+  - [staff](#staff)
   - [orderticket](#orderticket)
+  - [seat](#seat)
+  - [seattype](#seattype)
+  - [cinemaprogram](#cinemaprogram)
+  - [cinema](#cinema)
+  - [screen](#screen)
+  - [showtime](#showtime)
+  - [movie](#movie)
   - [poster](#poster)
-  - [productinfo](#productinfo)
-  - [productcountry](#productcountry)
-  - [books](#books)
-  - [publishers](#publishers)
   - [boxsets](#boxsets)
   - [toys](#toys)
   - [promotions](#promotions)
